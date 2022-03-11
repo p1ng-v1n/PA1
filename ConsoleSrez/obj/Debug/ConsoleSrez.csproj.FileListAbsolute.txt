@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\obj\Debug\ConsoleSrez.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\obj\Debug\ConsoleSrez.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\bin\Debug\ConsoleSrez.exe.config
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\bin\Debug\ConsoleSrez.exe
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\bin\Debug\ConsoleSrez.pdb
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\bin\Debug\DllLibrary.dll
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\bin\Debug\DllLibrary.pdb
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\obj\Debug\ConsoleSrez.csproj.CopyComplete
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\obj\Debug\ConsoleSrez.exe
+C:\Users\admin\source\repos\ConsoleSrez\ConsoleSrez\obj\Debug\ConsoleSrez.pdb

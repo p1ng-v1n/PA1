@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\obj\Debug\DllLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\obj\Debug\DllLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\bin\Debug\DllLibrary.dll
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\bin\Debug\DllLibrary.pdb
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\obj\Debug\DllLibrary.dll
+C:\Users\admin\source\repos\ConsoleSrez\DllLibrary\obj\Debug\DllLibrary.pdb
